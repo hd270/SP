@@ -1,0 +1,5 @@
+1. exp3. two pass assembler
+2.exp 4 lexical 
+3. exp 5 implementation of parser 
+4. exp 6. y lac cal lac 
+7. exp 7 code optimization 
